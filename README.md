@@ -119,24 +119,22 @@ Repository Structure
 
 The repository is organized into the following sections:
 
-ThinkPad-T470-CoreBoot/
-├── README.md
-├── LICENSE
-├── docs/
-│   ├── hardware-overview.md
-│   ├── motherboard.md
-│   └── boot-process.md
-├── research/
-│   ├── t470-vs-t470s.md
-│   ├── t470-vs-t480.md
-│   ├── coreboot-analysis.md
-│   └── libreboot-analysis.md
-├── references/
-│   └── sources.md
-└── reports/
-    └── research-log.md
+Planned Directory Structure
 
-These files will be added progressively as the research develops. The structure represents the planned organization, not completed research.
+* docs/
+    * hardware-overview.md
+    * motherboard.md
+    * boot-process.md
+* research/
+    * t480-coreboot-analysis.md
+    * t480-to-t470-adaptation.md
+    * t470-compatibility-findings.md
+* references/
+    * sources.md
+* reports/
+    * research-log.md
+
+These files will be added progressively as the research develops. This structure represents the planned organization, not completed research.
 
 Contributions
 
