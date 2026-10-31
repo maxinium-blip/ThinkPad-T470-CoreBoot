@@ -59,11 +59,11 @@ Hardware Reference
 
 The main reference machine for this project is:
 
-* Model: Lenovo ThinkPad T470
-* Processor: Intel Core i7-7600U
-* Platform: Intel Kaby Lake
-* Integrated graphics: Intel HD Graphics 620
-* Memory: 16 GB RAM
+Model: Lenovo ThinkPad T470
+Processor: Intel Core i7-7600U
+Platform: Intel Kaby Lake
+Integrated graphics: Intel HD Graphics 620
+Memory: 16 GB RAM
 
 Additional hardware details, including the exact motherboard revision, embedded controller (EC) and firmware configuration, will be documented as they are identified and verified.
 
@@ -71,26 +71,26 @@ Research Areas
 
 1. Hardware Investigation
 
-* Identify the motherboard and hardware configuration.
-* Study the platform architecture.
-* Investigate the embedded controller (EC).
-* Identify relevant firmware components.
-* Document hardware differences between T470 configurations.
+Identify the motherboard and hardware configuration.
+Study the platform architecture.
+Investigate the embedded controller (EC).
+Identify relevant firmware components.
+Document hardware differences between T470 configurations.
 
 2. Existing Firmware Projects
 
-* Study the Coreboot source code and documentation.
-* Investigate existing Lenovo ThinkPad implementations.
-* Look for documented community experiments involving the T470.
-* Compare the T470 with related models, including the T470s and T480.
-* Identify potentially reusable code and platform-specific requirements.
+Study the Coreboot source code and documentation.
+Investigate existing Lenovo ThinkPad implementations.
+Look for documented community experiments involving the T470.
+Compare the T470 with related models, including the T470s and T480.
+Identify potentially reusable code and platform-specific requirements.
 
 3. Firmware Architecture
 
-* Understand the structure of the original firmware.
-* Study Intel Management Engine and platform initialization.
-* Investigate the boot process and hardware initialization requirements.
-* Document proprietary components and technical limitations.
+Understand the structure of the original firmware.
+Study Intel Management Engine and platform initialization.
+Investigate the boot process and hardware initialization requirements.
+Document proprietary components and technical limitations.
 
 4. Development Research
 
@@ -106,14 +106,14 @@ A successful boot alone will not be considered proof of complete hardware suppor
 
 Working Principles
 
-* Prefer verified information over assumptions.
-* Use original documentation and source code whenever possible.
-* Include references for technical claims.
-* Document unsuccessful investigations as well as successful findings.
-* Keep research organized and reproducible.
-* Avoid duplicating existing community work.
-* Clearly distinguish confirmed facts from hypotheses.
-* Prioritize hardware safety and recovery considerations.
+Prefer verified information over assumptions.
+Use original documentation and source code whenever possible.
+Include references for technical claims.
+Document unsuccessful investigations as well as successful findings.
+Keep research organized and reproducible.
+Avoid duplicating existing community work.
+Clearly distinguish confirmed facts from hypotheses.
+Prioritize hardware safety and recovery considerations.
 
 Repository Structure
 
@@ -142,12 +142,12 @@ Although this project is currently maintained independently, contributions and t
 
 Useful contributions may include:
 
-* Verified hardware information about the ThinkPad T470.
-* References to existing T470 firmware experiments.
-* Technical documentation and specifications.
-* Coreboot or Libreboot source-code analysis.
-* Information about related ThinkPad platforms.
-* Reviews, corrections and suggestions supported by reliable sources.
+Verified hardware information about the ThinkPad T470.
+References to existing T470 firmware experiments.
+Technical documentation and specifications.
+Coreboot or Libreboot source-code analysis.
+Information about related ThinkPad platforms.
+Reviews, corrections and suggestions supported by reliable sources.
 
 Please include references or supporting evidence whenever possible.
 
@@ -169,9 +169,9 @@ Before reusing or modifying third-party code, its individual license, copyright 
 
 Useful references:
 
-* Coreboot source repository
-* Libreboot documentation
-* GNU GPL FAQ
+Coreboot source repository
+Libreboot documentation
+GNU GPL FAQ
 
 Disclaimer
 
